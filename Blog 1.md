@@ -1,6 +1,6 @@
 # How Does the Emission Pricing System Work
 
-**Authors: Yanhan Lin, Dana Monzer
+**Authors: Yanhan Lin, Dana Monzer**
 
 In recent days, how to reduce the emission in transportation has been concerned as one of the biggest issues all over the world. Many researchers have provided a lot of ideas, and the emission pricing system is the one that have been talked about most. However, it is not easy to place the pricing system into reality, since it is hard to achieve some of the idea based on current technology or achieving these need a high cost to operate. In this way, we try to give some ways that might be successful for the implementation of emission pricing system.
 
