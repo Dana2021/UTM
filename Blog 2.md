@@ -1,10 +1,7 @@
 
-## Case Study 
-
-**Bold** __text__
 
 ## Case Study: The Cheonggyecheon Restoration Project.
-### Authors: Dana Monzer, Yanhan Lin
+**Authors: Dana Monzer, Yanhan Lin**
 
 Seoul city, the capital city of South Korea, teared down a highway and restored the Cheonggyecheon river, between 2003 and 2006. [1] The elevated busy highway, that was burying Cheonggyecheon river, was transformed into a multifunctional cultural linear park around the river. 
 Early in the 20Th century, Seoul was a home for millions of residents, and the river was used as a dumping ground, which made it polluted and it was decided to cover it up and build a freeway over it in the 1950s, then in 1976, the four-lane elevated Cheonggyecheon Freeway was already thought of as a symbol of successful modernization of Korea.
