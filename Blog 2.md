@@ -12,9 +12,9 @@ So, the tearing of the freeway freed concentration on using only limited routes 
 So while traffic had many other alternatives to traverse, that can even reduce the total travel time of users, where less users will traverse each roadways because of the distribution of cars on more roadways than before, and when the volume of cars on the roadways is decreased, there is less risk of congestion and the travel time of each car on a route will not be slowed down because of other cars, the freeway can be then teared and have the city enjoy the other benefits of the unique Cheonggyecheon river that the freeway was covering. 
 
 References:
-[1] https://grist.org/infrastructure/2011-04-04-seoul-korea-tears-down-an-urban-highway-life-goes-on/
+- [1] https://grist.org/infrastructure/2011-04-04-seoul-korea-tears-down-an-urban-highway-life-goes-on/
 
-[2] https://globaldesigningcities.org/publication/global-street-design-guide/streets/special-conditions/elevated-structure-removal/case-study-cheonggyecheon-seoul-korea/
+- [2] https://globaldesigningcities.org/publication/global-street-design-guide/streets/special-conditions/elevated-structure-removal/case-study-cheonggyecheon-seoul-korea/
 
 
 
